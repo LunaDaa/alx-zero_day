@@ -1,1 +1,1 @@
-This is a git operations.
+This is a readme file for git project.
